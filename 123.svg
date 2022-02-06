@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1000" height="1000" version="1.1" xmlns="http://www.w3.org/2000/svg">
+
+
+<g transform="translate(100,100)">
+
+
+  <rect x="0"   y="0" width="50" height="50" stroke="black" fill="#79cb00" stroke-width="1"/>
+  <rect x="50"  y="0" width="50" height="50" stroke="black" fill="#ff7600" stroke-width="1"/>
+  <rect x="100" y="0" width="50" height="50" stroke="black" fill="#ff7900" stroke-width="1"/>
+  <rect x="150" y="0" width="50" height="50" stroke="black" fill="#f3f800" stroke-width="1"/>
+  <rect x="200" y="0" width="50" height="50" stroke="black" fill="#fda400" stroke-width="1"/>
+  <rect x="250" y="0" width="50" height="50" stroke="black" fill="#f9ea00" stroke-width="1"/>
+
+  <rect x="0"   y="50" width="50" height="50" stroke="black" fill="#fcaf00" stroke-width="1"/>
+  <rect x="50"  y="50" width="50" height="50" stroke="black" fill="#ace100" stroke-width="1"/>
+  <rect x="100" y="50" width="50" height="50" stroke="black" fill="#ff7000" stroke-width="1"/>
+  <rect x="150" y="50" width="50" height="50" stroke="black" fill="#ff7300" stroke-width="1"/>
+  <rect x="200" y="50" width="50" height="50" stroke="black" fill="#95d700" stroke-width="1"/>
+  <rect x="250" y="50" width="50" height="50" stroke="black" fill="#fada00" stroke-width="1"/>
+
+
+
+  <rect x="0"   y="100" width="50" height="50" stroke="black" fill="#fbc300" stroke-width="1"/>
+  <rect x="50"  y="100" width="50" height="50" stroke="black" fill="#fcb500" stroke-width="1"/>
+  <rect x="100" y="100" width="50" height="50" stroke="black" fill="#fca700" stroke-width="1"/>
+  <rect x="150" y="100" width="50" height="50" stroke="black" fill="#fbcc00" stroke-width="1"/>
+  <rect x="200" y="100" width="50" height="50" stroke="black" fill="#fbc300" stroke-width="1"/>
+  <rect x="250" y="100" width="50" height="50" stroke="black" fill="#ff7000" stroke-width="1"/>
+  <rect x="300" y="100" width="50" height="50" stroke="black" fill="#7dcd00" stroke-width="1"/>
+
+  <rect x="0"   y="150" width="50" height="50" stroke="black" fill="#f9ed00" stroke-width="1"/>
+  <rect x="50"  y="150" width="50" height="50" stroke="black" fill="#fbd100" stroke-width="1"/>
+  <rect x="100" y="150" width="50" height="50" stroke="black" fill="#fbce00" stroke-width="1"/>
+  <rect x="150" y="150" width="50" height="50" stroke="black" fill="#fcbb00" stroke-width="1"/>
+  <rect x="200" y="150" width="50" height="50" stroke="black" fill="#fda400" stroke-width="1"/>
+  <rect x="250" y="150" width="50" height="50" stroke="black" fill="#f9f000" stroke-width="1"/>
+  <rect x="300" y="150" width="50" height="50" stroke="black" fill="#fcbb00" stroke-width="1"/>
+
+  <rect x="0"   y="200" width="50" height="50" stroke="black" fill="#fbc000" stroke-width="1"/>
+  <rect x="50"  y="200" width="50" height="50" stroke="black" fill="#fcaf00" stroke-width="1"/>
+  <rect x="100" y="200" width="50" height="50" stroke="black" fill="#f0f800" stroke-width="1"/>
+  <rect x="150" y="200" width="50" height="50" stroke="black" fill="#fda100" stroke-width="1"/>
+  <rect x="200" y="200" width="50" height="50" stroke="black" fill="#fad700" stroke-width="1"/>
+  <rect x="250" y="200" width="50" height="50" stroke="black" fill="#b6e500" stroke-width="1"/>
+  <rect x="300" y="200" width="50" height="50" stroke="black" fill="#fcbb00" stroke-width="1"/>
+
+  <rect x="0"   y="250" width="50" height="50" stroke="black" fill="#fe8d00" stroke-width="1"/>
+  <rect x="50"  y="250" width="50" height="50" stroke="black" fill="#ace100" stroke-width="1"/>
+  <rect x="100" y="250" width="50" height="50" stroke="black" fill="#ff7000" stroke-width="1"/>
+  <rect x="150" y="250" width="50" height="50" stroke="black" fill="#9edb00" stroke-width="1"/>
+  <rect x="200" y="250" width="50" height="50" stroke="black" fill="#fada00" stroke-width="1"/>
+  <rect x="250" y="250" width="50" height="50" stroke="black" fill="#fad700" stroke-width="1"/>
+  <rect x="300" y="250" width="50" height="50" stroke="black" fill="#79cb00" stroke-width="1"/>
+
+  <rect x="0"   y="300" width="50" height="50" stroke="black" fill="#fad400" stroke-width="1"/>
+  <rect x="50"  y="300" width="50" height="50" stroke="black" fill="#fbc000" stroke-width="1"/>
+  <rect x="100" y="300" width="50" height="50" stroke="black" fill="#9ad900" stroke-width="1"/>
+</g>
+</svg>
